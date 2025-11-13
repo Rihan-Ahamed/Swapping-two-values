@@ -18,8 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
+```
+# Developed by: Rihan Ahamed.S
+# Regsiter No:212224040276
+surya = input()
+vijay = input()
+surya, vijay = vijay, surya
+print("Swapped values are:", surya, vijay)
+```
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
